@@ -7,6 +7,7 @@ function entryCalculator(entrants) {
 }
 
 function schedule(dayName) {
+  //Soy consciente que esto esta mal, me he dado cuenta al acabar la practica.
   const allSchedules = {
     Tuesday: 'Open from 8am until 6pm',
     Wednesday: 'Open from 8am until 6pm',
